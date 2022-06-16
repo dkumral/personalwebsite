@@ -34,7 +34,7 @@
             <a href = "https://en.wikipedia.org/wiki/Digital_data"> digital era</a>, controversial movies of <a href= "https://en.wikipedia.org/wiki/Lars_von_Trier">Lars von Trier</a>,
             good friendship, and better conversations.</p>
 
-            <p> I am currently in <b>maternal leave</b> until January 2022. </p>
+            <p> I am currently in <b>maternal leave</b> from June 2022 until January 2023. </p>
             
 
     </div>
