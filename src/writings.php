@@ -16,21 +16,22 @@
 
   	<div id="home">
 
-		<p><b>Kumral D</b>, Matzerath A, Leonhart R, Schönauer M. Spindle-dependent memory consolidation in healthy adults: A meta-analysis, <i>in prep</i>
+		<p><b>Kumral D</b>, Matzerath A, Leonhart R, Schönauer M. Spindle-dependent memory consolidation in healthy adults: A meta-analysis, <i>under review</i>, 	<a href = "https://www.biorxiv.org/content/10.1101/2022.07.18.500433v1.abstract"> preprint available </a></p>
 
-  		<p><b>Kumral D</b>, Al E, Cesnaite E, Kornej J, Sander C, Hensch T, Zeynalova S, Tautenhahn S, Hagendorf A, Laufs U, Wachter R, Nikulin V, Villringer A. The Neural Representation of the Heart is Strongly Attenuated in Patients with Atrial Fibrillation, <i>in revision</i>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4079330"> preprint available </a></p>
+  		<p><b>Kumral D</b>, Al E, Cesnaite E, Kornej J, Sander C, Hensch T, Zeynalova S, Tautenhahn S, Hagendorf A, Laufs U, Wachter R, Nikulin V, Villringer A. The Neural Representation of the Heart is Strongly Attenuated in Patients with Atrial Fibrillation, 2022, <i>JACC: Clinical Electrophysiology </i>, 
+  		<a href = "https://doi.org/10.1016/j.jacep.2022.06.019"> doi: 10.1016/j.jacep.2022.06.019 </a></p>
 
-		<p>Uhlig M, Reinelt JD, Lauckner ME, <b>Kumral D</b>, Schaare HL, Mildner T, Babayan A, Engert V, Villringer A, Gaebler M. Rapid volumetric brain changes after acute psychosocial stress, <i>under review</i>, <a href = "https://www.biorxiv.org/content/10.1101/2021.12.01.470604v1.abstract"> preprint available </a></p>
+		<p>Uhlig M, Reinelt JD, Lauckner ME, <b>Kumral D</b>, Schaare HL, Mildner T, Babayan A, Engert V, Villringer A, Gaebler M. Rapid volumetric brain changes after acute psychosocial stress, <i>in revision</i>, <a href = "https://www.biorxiv.org/content/10.1101/2021.12.01.470604v1.abstract"> preprint available </a></p>
 
-  		<p>Cesnaite E, Steinfath TP, Idaji MJ, Stephani T, <b>Kumral D</b>, Haufe S, Sander C, Hensch T, Hegerl U, Riedel-Heller S, Roehr S, Schroeter M, Witte V, Villringer A, Nikulin V. Alterations in rhythmic and non-rhythmic resting-state EEG activity and their link to cognition in older age. <i>in revision</i>, 
+  		<p>Cesnaite E, Steinfath TP, Idaji MJ, Stephani T, <b>Kumral D</b>, Haufe S, Sander C, Hensch T, Hegerl U, Riedel-Heller S, Roehr S, Schroeter M, Witte V, Villringer A, Nikulin V. Alterations in rhythmic and non-rhythmic resting-state EEG activity and their link to cognition in older age, <i>in revision</i>, 
 		<a href = "https://www.biorxiv.org/content/10.1101/2021.08.26.457768v2.abstract"> preprint available </a></p>
 
-  		<p>Schaare L, Blöchl M, <b>Kumral D</b>, Uhlig M, Lemcke L, Valk S, Villringer, A. Mental health, blood pressure and the development of hypertension, <i>submitted</i>. </p>
+  		<p>Schaare L, Blöchl M, <b>Kumral D</b>, Uhlig M, Lemcke L, Valk S, Villringer, A. Mental health, blood pressure and the development of hypertension, <i>under review</i>. </p>
 
-  		<p><b>Kumral D,</b> Cesnaite E, Beyer F, Hofmann SM, Hensch T, Sander C, Hegerl U, Haufe S, Villringer A, Witte AV, Nikulin V. 
-		Relationship between Regional White Matter Hyperintensities and Alpha Oscillations in Older Adults, 
-		<i>Neurobiology of aging</i> 2022, 112, 1-11.
-		<a href = "https://www.sciencedirect.com/science/article/pii/S0197458021003195"> doi.org/10.1016/j.neurobiolaging.2021.10.006 </a> </p>
+  		<p>Christoph E, Kerstin W Samira Z, Ronny B, ..... <b>Kumral D</b>..., LIFE-Adult-Study working group, Cohort Profile: The LIFE-Adult-Study,<i> International Journal of Epidemiology</i>, 2022, 1–14, 
+		<a href = "https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac114/6594394"> doi: 10.1093/ije/dyac114</a></p>
+
+  		<p><b>Kumral D,</b> Cesnaite E, Beyer F, Hofmann SM, Hensch T, Sander C, Hegerl U, Haufe S, Villringer A, Witte AV, Nikulin V, Relationship between Regional White Matter Hyperintensities and Alpha Oscillations in Older Adults, <i>Neurobiology of Aging</i>, 2022, 112, 1-11, <a href = "https://www.sciencedirect.com/science/article/pii/S0197458021003195"> doi.org/10.1016/j.neurobiolaging.2021.10.006</a> </p>
 
 	  	<p>Roebbig J, Erbey M, Babayan A, Reiter A, <b>Kumral D</b>, Schaare HL, Reinelt J, Gaebler M, Kunzmann U, Villringer A. Anger Regulation 
 	  	Choice- the Role of Age and Habitual Reappraisal, 
