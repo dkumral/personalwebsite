@@ -16,7 +16,7 @@
 
 <!-- Contact Section -->
 <div id="contact">
-      <ul><li>Berlin, Germany </li></ul>
+      <ul><li>Freiburg, Germany </li></ul>
      <ul><li> e-mail: denizkumral89@gmail.com </li></ul>
      <ul><li> dkumral@cbs.mpg.de </li></ul>
 
